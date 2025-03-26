@@ -1,2 +1,2 @@
 # LearnCode
-code review
+“Learning is earning! Keep growing, keep winning!”
